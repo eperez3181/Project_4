@@ -12,13 +12,13 @@ cancer mortality rates plunged by 74% from 1955 - 1992 thanks to increased scree
 detection with the Pap test.
 
 ## LOGISTICAL REGRESSION
-![alt text](images/Cancer_DNA.jpg)
+![alt text](images/7cancer.png)
 
 Our model incorporates the following indicators to classify whether a patient is at-risk and 
 should undergo a biopsy for cervical cancer. 
 
 ### High Sexual Activity
-![alt text]()
+![alt text](images/Agedis.png)
 
 Human papilloma virus (HPV) is the main risk factor for cervical cancer. In adults, the most 
 important risk factor for HPV is sexual activity with an infected person. Women most at risk for 
@@ -26,13 +26,13 @@ cervical cancer are those with a history of multiple sexual partners, sexual int
 years or younger, or both. 
 
 ### Family History
-![alt text]()
+![alt text](images/Cancer_DNA.png)
 
 Women have a higher risk of cervical cancer if they have a first-degree relative (mother, sister) 
 who has had cervical cancer. 
 
 ### Use Of Oral Contraceptives
-![alt text]()
+![alt text](images/Contra.png)
 
 Studies have reported a strong association between cervical cancer and long-term use of oral 
 contraception (OC). Women who take birth control pills for more than 5 - 10 years appear to 
@@ -41,13 +41,12 @@ Some research also suggests that the hormones in OCs might help the virus enter 
 material of cervical cells. 
 
 ### Smoking
-![alt text]()
+![alt text](images/IUD1.png)
 
 Smoking is associated with a higher risk for precancerous changes (dysplasia) in the cervix and 
 for progression to invasive cervical cancer, especially for women infected with HPV. 
 
 ### CONCLUSION
-![alt text]()
 
 With a Training Score of 0.93820 and a Testing Score: 0.98315, our model demonstrates 
 meaningful predictive power in the cervical cancer screening process. 
